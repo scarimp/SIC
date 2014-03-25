@@ -1,0 +1,21 @@
+Regione 	Istituzioni scolastiche (a) 	Istituzioni scolastiche sottodimensionate 	C.P.I.A. (c) 	Totali (a-b+c)
+Meno di 400 alunni 	Meno di 600 alunni 	Totale (b)
+Abruzzo 	215 	16 	8 	24 	4 	195
+Basilicata 	141 	28 	10 	38 	2 	105
+Calabria 	407 	29 	53 	82 	5 	330
+Campania 	1.188 	86 	166 	252 	0 	936
+Emilia Romagna 	551 	14 	24 	38 	9 	522
+Friuli V.Giulia 	158 	9 	1 	10 	6 	154
+Lazio 	768 	21 	59 	80 	16 	704
+Liguria 	191 	1 	9 	10 	6 	187
+Lombardia 	1.224 	10 	41 	51 	14 	1.187
+Marche 	245 	11 	17 	28 	7 	224
+Molise 	82 	29 	11 	40 	0 	42
+Piemonte 	607 	11 	28 	39 	16 	584
+Puglia 	702 	2 	33 	35 	14 	681
+Sardegna 	331 	37 	37 	74 	8 	265
+Sicilia 	1.001 	38 	133 	171 	10 	840
+Toscana 	499 	14 	29 	43 	11 	467
+Umbria 	160 	9 	23 	32 	0 	128
+Veneto 	651 	9 	62 	71 	0 	580
+Totale 	9.121 	374 	744 	1.118 	128 	8.131

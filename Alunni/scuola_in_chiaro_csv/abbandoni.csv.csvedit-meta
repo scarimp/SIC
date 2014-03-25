@@ -1,0 +1,37 @@
+# cvsedit meta file for
+#   C:/_FM/esempi_miei/scuola_in_chiaro/Alunni/scuola_in_chiaro_csv/abbandoni.csv.csvedit-meta
+# written at 2012-09-12T16:43:51
+# do not edit unless you know what you are doing
+# 
+# This file is encoded UTF-8, but real data except column names are in [a-zA-Z0-9]
+#
+
+# valueSeparator = | (unicode codepoint nr. 124)
+valueSeparator=124
+
+# lineDelimiter = NYI
+#lineDelimiter=NYI
+
+# characterSet = System (name of QT 4.5's TextCodec)
+characterSet=System
+
+# stringDelimiter = " (unicode codepoint nr. 34)
+stringDelimiter=34
+
+# embedColumnNames = false (true|false|yes|no)
+embedColumnNames=false
+
+# columnNames = [ columnName [ , [ columnName ] ... ]
+# columns can be unnamed, i.e. have a name which is an empty string
+columnNames=,,,,
+
+# zoom = zoom_in_percent
+# zoom = 100 %
+zoom=100
+
+# hiddenColumnNumbers = [ columnNumber [ , [ columnNumber ] ... ]
+# no columns saved as hidden
+
+# hiddenRowNumbers = [ RowNumber [ , [ RowNumber ] ... ]
+# no rows saved as hidden
+

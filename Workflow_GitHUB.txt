@@ -1,0 +1,16 @@
+SIC_repos
+=========
+
+Workflow
+
+1. Create on GIThub a SIC_repos.
+2. Create on GIThub a README.md file.
+3. Commit on GIThub the file README.md.
+4. On my Ububtu laptop I create  SIC_repos.
+5. Touch readme and insert welcome to SIC_repository (this was a mistake).
+6. Added three directories (with files in them) in SIC_repos.
+7. Added in my Ubuntu laptop all the files in directorie Sic_repos.
+8. Finally committed all the files.
+9. Add a remote origin to repository in GITHub.
+10. Merge the origin in GIThub with my local copy on Ubuntu ( git pull origin master).
+11. Finally I push my ubuntu repository on GitHub.
