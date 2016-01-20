@@ -1,0 +1,450 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2934,
+          41.7143
+        ]
+      },
+      "properties": {
+        "cartodb_id": 1,
+        "plesso_scuola": "ISAA81202E",
+        "ist_principale": "ISIC81200L",
+        "longitudine": 14.2934,
+        "latitudine": 41.7143
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2654,
+          41.8338
+        ]
+      },
+      "properties": {
+        "cartodb_id": 2,
+        "plesso_scuola": "ISAA81204L",
+        "ist_principale": "ISIC81200L",
+        "longitudine": 14.2654,
+        "latitudine": 41.8338
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3367,
+          41.6781
+        ]
+      },
+      "properties": {
+        "cartodb_id": 3,
+        "plesso_scuola": "ISAA81205N",
+        "ist_principale": "ISIC81200L",
+        "longitudine": 14.3367,
+        "latitudine": 41.6781
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1758,
+          41.697
+        ]
+      },
+      "properties": {
+        "cartodb_id": 4,
+        "plesso_scuola": "ISAA81206P",
+        "ist_principale": "ISIC81200L",
+        "longitudine": 14.1758,
+        "latitudine": 41.697
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2449,
+          41.6552
+        ]
+      },
+      "properties": {
+        "cartodb_id": 5,
+        "plesso_scuola": "ISAA81207Q",
+        "ist_principale": "ISIC81200L",
+        "longitudine": 14.2449,
+        "latitudine": 41.6552
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2822,
+          41.61
+        ]
+      },
+      "properties": {
+        "cartodb_id": 7,
+        "plesso_scuola": "ISAA81209T",
+        "ist_principale": "ISIC81200L",
+        "longitudine": 14.2822,
+        "latitudine": 41.61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2784,
+          41.5742
+        ]
+      },
+      "properties": {
+        "cartodb_id": 8,
+        "plesso_scuola": "ISAA81210X",
+        "ist_principale": "ISIC81200L",
+        "longitudine": 14.2784,
+        "latitudine": 41.5742
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3244,
+          41.592
+        ]
+      },
+      "properties": {
+        "cartodb_id": 9,
+        "plesso_scuola": "ISAA812111",
+        "ist_principale": "ISIC81200L",
+        "longitudine": 14.3244,
+        "latitudine": 41.592
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2949,
+          41.7128
+        ]
+      },
+      "properties": {
+        "cartodb_id": 10,
+        "plesso_scuola": "ISEE81201P",
+        "ist_principale": "ISIC81200L",
+        "longitudine": 14.2949,
+        "latitudine": 41.7128
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3855,
+          41.748
+        ]
+      },
+      "properties": {
+        "cartodb_id": 11,
+        "plesso_scuola": "ISEE81202Q",
+        "ist_principale": "ISIC81200L",
+        "longitudine": 14.3855,
+        "latitudine": 41.748
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2654,
+          41.8339
+        ]
+      },
+      "properties": {
+        "cartodb_id": 12,
+        "plesso_scuola": "ISEE81203R",
+        "ist_principale": "ISIC81200L",
+        "longitudine": 14.2654,
+        "latitudine": 41.8339
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1832,
+          41.7893
+        ]
+      },
+      "properties": {
+        "cartodb_id": 13,
+        "plesso_scuola": "ISEE81205V",
+        "ist_principale": "ISIC81200L",
+        "longitudine": 14.1832,
+        "latitudine": 41.7893
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2599,
+          41.773
+        ]
+      },
+      "properties": {
+        "cartodb_id": 14,
+        "plesso_scuola": "ISEE81206X",
+        "ist_principale": "ISIC81200L",
+        "longitudine": 14.2599,
+        "latitudine": 41.773
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3381,
+          41.6796
+        ]
+      },
+      "properties": {
+        "cartodb_id": 15,
+        "plesso_scuola": "ISEE812082",
+        "ist_principale": "ISIC81200L",
+        "longitudine": 14.3381,
+        "latitudine": 41.6796
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.181,
+          41.6951
+        ]
+      },
+      "properties": {
+        "cartodb_id": 16,
+        "plesso_scuola": "ISEE812093",
+        "ist_principale": "ISIC81200L",
+        "longitudine": 14.181,
+        "latitudine": 41.6951
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2449,
+          41.6553
+        ]
+      },
+      "properties": {
+        "cartodb_id": 17,
+        "plesso_scuola": "ISEE812105",
+        "ist_principale": "ISIC81200L",
+        "longitudine": 14.2449,
+        "latitudine": 41.6553
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2784,
+          41.5743
+        ]
+      },
+      "properties": {
+        "cartodb_id": 19,
+        "plesso_scuola": "ISEE812127",
+        "ist_principale": "ISIC81200L",
+        "longitudine": 14.2784,
+        "latitudine": 41.5743
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2822,
+          41.6101
+        ]
+      },
+      "properties": {
+        "cartodb_id": 20,
+        "plesso_scuola": "ISEE812138",
+        "ist_principale": "ISIC81200L",
+        "longitudine": 14.2822,
+        "latitudine": 41.6101
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3244,
+          41.5921
+        ]
+      },
+      "properties": {
+        "cartodb_id": 21,
+        "plesso_scuola": "ISEE812149",
+        "ist_principale": "ISIC81200L",
+        "longitudine": 14.3244,
+        "latitudine": 41.5921
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2945,
+          41.7132
+        ]
+      },
+      "properties": {
+        "cartodb_id": 22,
+        "plesso_scuola": "ISIC81200L",
+        "ist_principale": "ISIC81200L",
+        "longitudine": 14.2945,
+        "latitudine": 41.7132
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2949,
+          41.7129
+        ]
+      },
+      "properties": {
+        "cartodb_id": 23,
+        "plesso_scuola": "ISMM81201N",
+        "ist_principale": "ISIC81200L",
+        "longitudine": 14.2949,
+        "latitudine": 41.7129
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3849,
+          41.7478
+        ]
+      },
+      "properties": {
+        "cartodb_id": 24,
+        "plesso_scuola": "ISMM81202P",
+        "ist_principale": "ISIC81200L",
+        "longitudine": 14.3849,
+        "latitudine": 41.7478
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2654,
+          41.8337
+        ]
+      },
+      "properties": {
+        "cartodb_id": 25,
+        "plesso_scuola": "ISMM81204R",
+        "ist_principale": "ISIC81200L",
+        "longitudine": 14.2654,
+        "latitudine": 41.8337
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3385,
+          41.6786
+        ]
+      },
+      "properties": {
+        "cartodb_id": 26,
+        "plesso_scuola": "ISMM81205T",
+        "ist_principale": "ISIC81200L",
+        "longitudine": 14.3385,
+        "latitudine": 41.6786
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2471,
+          41.6434
+        ]
+      },
+      "properties": {
+        "cartodb_id": 27,
+        "plesso_scuola": "ISMM81206V",
+        "ist_principale": "ISIC81200L",
+        "longitudine": 14.2471,
+        "latitudine": 41.6434
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3244,
+          41.5919
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "school",
+        "cartodb_id": 28,
+        "plesso_scuola": "ISMM81207X",
+        "ist_principale": "ISIC81200L",
+        "longitudine": 14.3244,
+        "latitudine": 41.5919
+      }
+    }
+  ]
+}
