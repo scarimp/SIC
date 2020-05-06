@@ -1,0 +1,87 @@
+
+
+bitcoin_tools                	        https://github.com/sr-gi/bitcoin_tools
+
+bitcoin_tools allows you to:
+    Bitcoin keys creation and management.
+    Creation of Bitcoin transactions from scratch.
+    Customize any field of your transaction.
+    Transaction serialization / deserialization.
+    Creation of standard and custom scripts (scriptSig and scriptPubKey).
+    Transaction analysis from hex encoded transactions.
+
+pybtc
+
+Supports addresses types PUBKEY, P2PKH, P2SH, P2SH-PWPKH, P2WPKH, P2WSH.
+Supports BIP32(Hierarchical Deterministic Wallets), BIP39(Mnemonic code generation)
+Supports BIP141(Segregated Witness)
+Transaction constructor
+Mining pool basic primitives
+
+BitSV									https://austecon.github.io/bitsv/
+
+Features
+
+    Python's fastest available implementation (100x faster than closest library)
+    100kb OP_RETURN transactions made very simple
+    Fully supports 21 different currencies via exchange rate API
+    First class support for storing data in the blockchain
+    Compressed public keys by default
+    Multiple representations of private keys; WIF, PEM, DER, etc.
+    Standard P2PKH transactions
+
+
+
+
+
+
+
+pycoin
+python-bitcoin-blockchain-parser
+python-bitcoinrpc
+
+
+python-bitcoinlib	
+("The Swiss Army Knife of the Bitcoin protocol." - Wladimir J. van der Laan)					
+https://github.com/petertodd/python-bitcoinlib
+
+
+
+
+
+
+
+fastecdsa
+elliptic curve 
+
+
+
+
+HWI   Wallet  https://github.com/bitcoin-core/HWI
+---------------------------------------------------------------------------------------------------------------------------
+
+explorer blockchain 					
+https://WhatsOnChain.com	
+	
+https://whatsonchain.com/tx/dec895d1aa0e820984c5748984ba36854163ec3d6847c94e82a921765c5b23e1			
+		 								
+https://api.whatsonchain.com/v1/bsv/main/chain/info	
+
+
+HTTP Request hash
+
+GET https://api.whatsonchain.com/v1/bsv/main/block/hash/<hash>
+curl --location --request GET "https://api.whatsonchain.com/v1/bsv/main/block/hash/000000000000000004a288072ebb35e37233f419918f9783d499979cb6ac33eb"									
+										
+This endpoint retrieves block details with given hash.
+For a block with up to 1000 transaction, all transaction ids are returned in response this call.
+If a block has more than 1000 transactions, only top 100 transaction ids are returned. 
+To get remaining ids see 'Get block pages' section.
+
+HTTP Request height
+GET https://api.whatsonchain.com/v1/bsv/<network>/block/height/<height>
+curl --location --request GET "https://api.whatsonchain.com/v1/bsv/main/block/height/575191"
+
+curl -X POST https://api.whatsonchain.com/v1/bsv/main/search/links   -H 'Content-Type: application/json'  -d '{"query": "1GJ3x5bcEnKMnzNFPPELDfXUCwKEaLHM5H" }'
+
+---------------------------------------------------------------------------------------------------------------------------
